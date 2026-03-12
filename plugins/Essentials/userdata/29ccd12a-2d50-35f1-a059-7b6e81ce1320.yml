@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 211.243.64.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765884644193
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766908446289
+  login: 1766907383314
+money: '0'
+last-account-name: HitmontopBee
+lastlocation:
+  world: df3a2232-59ab-4d6e-89e3-69db41408396
+  world-name: world
+  x: 103.87317427632547
+  y: -52.99866402088785
+  z: 362.0635703334345
+  yaw: 27.83868408203125
+  pitch: 27.949199676513672
+logoutlocation:
+  world: df3a2232-59ab-4d6e-89e3-69db41408396
+  world-name: world
+  x: -71.5095401105118
+  y: 75.9375
+  z: 73.71192951938339
+  yaw: -100.50259399414062
+  pitch: 19.04970932006836

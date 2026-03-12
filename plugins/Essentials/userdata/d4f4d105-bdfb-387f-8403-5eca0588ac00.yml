@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 221.140.228.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1767438167776
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767586778744
+  login: 1767584971083
+money: '0'
+last-account-name: SEN1N
+logoutlocation:
+  world: df3a2232-59ab-4d6e-89e3-69db41408396
+  world-name: world
+  x: -4005.077197938095
+  y: 117.87543495220454
+  z: 3012.666086848019
+  yaw: 176.1162109375
+  pitch: 8.549999237060547
+lastlocation:
+  world: df3a2232-59ab-4d6e-89e3-69db41408396
+  world-name: world
+  x: -161.5
+  y: 64.0
+  z: -111.5
+  yaw: 0.0
+  pitch: 0.0

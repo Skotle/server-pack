@@ -1,0 +1,560 @@
+storageVersion: 1
+maps:
+  139:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 0
+    y: 0
+    scale: 1.0
+  140:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 0
+    y: 1
+    scale: 1.0
+  141:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 0
+    y: 2
+    scale: 1.0
+  142:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 0
+    y: 3
+    scale: 1.0
+  143:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 1
+    y: 0
+    scale: 1.0
+  144:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 1
+    y: 1
+    scale: 1.0
+  145:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 1
+    y: 2
+    scale: 1.0
+  146:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 1
+    y: 3
+    scale: 1.0
+  147:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 2
+    y: 0
+    scale: 1.0
+  148:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 2
+    y: 1
+    scale: 1.0
+  149:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 2
+    y: 2
+    scale: 1.0
+  150:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 2
+    y: 3
+    scale: 1.0
+  151:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 3
+    y: 0
+    scale: 1.0
+  152:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 3
+    y: 1
+    scale: 1.0
+  153:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 3
+    y: 2
+    scale: 1.0
+  154:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 3
+    y: 3
+    scale: 1.0
+  155:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 4
+    y: 0
+    scale: 1.0
+  156:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 4
+    y: 1
+    scale: 1.0
+  157:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 4
+    y: 2
+    scale: 1.0
+  158:
+    ==: ImageMaps.Map
+    image: xijin
+    x: 4
+    y: 3
+    scale: 1.0
+  176:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 0
+    y: 0
+    scale: 1.0
+  177:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 0
+    y: 1
+    scale: 1.0
+  178:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 0
+    y: 2
+    scale: 1.0
+  179:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 0
+    y: 3
+    scale: 1.0
+  180:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 1
+    y: 0
+    scale: 1.0
+  181:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 1
+    y: 1
+    scale: 1.0
+  182:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 1
+    y: 2
+    scale: 1.0
+  183:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 1
+    y: 3
+    scale: 1.0
+  184:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 2
+    y: 0
+    scale: 1.0
+  185:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 2
+    y: 1
+    scale: 1.0
+  186:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 2
+    y: 2
+    scale: 1.0
+  187:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 2
+    y: 3
+    scale: 1.0
+  188:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 3
+    y: 0
+    scale: 1.0
+  189:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 3
+    y: 1
+    scale: 1.0
+  190:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 3
+    y: 2
+    scale: 1.0
+  191:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 3
+    y: 3
+    scale: 1.0
+  192:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 4
+    y: 0
+    scale: 1.0
+  193:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 4
+    y: 1
+    scale: 1.0
+  194:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 4
+    y: 2
+    scale: 1.0
+  195:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 4
+    y: 3
+    scale: 1.0
+  196:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 5
+    y: 0
+    scale: 1.0
+  197:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 5
+    y: 1
+    scale: 1.0
+  198:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 5
+    y: 2
+    scale: 1.0
+  199:
+    ==: ImageMaps.Map
+    image: kanna
+    x: 5
+    y: 3
+    scale: 1.0
+  200:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 0
+    y: 0
+    scale: 1.0
+  201:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 0
+    y: 1
+    scale: 1.0
+  202:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 0
+    y: 2
+    scale: 1.0
+  203:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 1
+    y: 0
+    scale: 1.0
+  204:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 1
+    y: 1
+    scale: 1.0
+  205:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 1
+    y: 2
+    scale: 1.0
+  206:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 2
+    y: 0
+    scale: 1.0
+  207:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 2
+    y: 1
+    scale: 1.0
+  208:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 2
+    y: 2
+    scale: 1.0
+  209:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 3
+    y: 0
+    scale: 1.0
+  210:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 3
+    y: 1
+    scale: 1.0
+  211:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 3
+    y: 2
+    scale: 1.0
+  212:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 4
+    y: 0
+    scale: 1.0
+  213:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 4
+    y: 1
+    scale: 1.0
+  214:
+    ==: ImageMaps.Map
+    image: ppp
+    x: 4
+    y: 2
+    scale: 1.0
+  215:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 0
+    scale: 1.0
+  216:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 1
+    scale: 1.0
+  217:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 2
+    scale: 1.0
+  218:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 0
+    scale: 1.0
+  219:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 1
+    scale: 1.0
+  220:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 2
+    scale: 1.0
+  221:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 0
+    scale: 1.0
+  222:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 1
+    scale: 1.0
+  223:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 2
+    scale: 1.0
+  224:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 0
+    scale: 2.1333333333333333
+  225:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 1
+    scale: 2.1333333333333333
+  226:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 2
+    scale: 2.1333333333333333
+  227:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 3
+    scale: 2.1333333333333333
+  228:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 0
+    y: 4
+    scale: 2.1333333333333333
+  229:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 0
+    scale: 2.1333333333333333
+  230:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 1
+    scale: 2.1333333333333333
+  231:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 2
+    scale: 2.1333333333333333
+  232:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 3
+    scale: 2.1333333333333333
+  233:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 1
+    y: 4
+    scale: 2.1333333333333333
+  234:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 0
+    scale: 2.1333333333333333
+  235:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 1
+    scale: 2.1333333333333333
+  236:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 2
+    scale: 2.1333333333333333
+  237:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 3
+    scale: 2.1333333333333333
+  238:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 2
+    y: 4
+    scale: 2.1333333333333333
+  239:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 3
+    y: 0
+    scale: 2.1333333333333333
+  240:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 3
+    y: 1
+    scale: 2.1333333333333333
+  241:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 3
+    y: 2
+    scale: 2.1333333333333333
+  242:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 3
+    y: 3
+    scale: 2.1333333333333333
+  243:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 3
+    y: 4
+    scale: 2.1333333333333333
+  244:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 4
+    y: 0
+    scale: 2.1333333333333333
+  245:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 4
+    y: 1
+    scale: 2.1333333333333333
+  246:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 4
+    y: 2
+    scale: 2.1333333333333333
+  247:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 4
+    y: 3
+    scale: 2.1333333333333333
+  248:
+    ==: ImageMaps.Map
+    image: chickchick
+    x: 4
+    y: 4
+    scale: 2.1333333333333333

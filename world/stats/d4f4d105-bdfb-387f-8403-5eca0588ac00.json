@@ -1,0 +1,91 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wooden_axe": 1,
+      "minecraft:polished_granite": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 219725,
+      "minecraft:walk_one_cm": 306218,
+      "minecraft:leave_game": 19,
+      "minecraft:walk_under_water_one_cm": 2857,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 691,
+      "minecraft:play_time": 286601,
+      "minecraft:jump": 1309,
+      "minecraft:time_since_death": 219691,
+      "minecraft:aviate_one_cm": 5076997,
+      "minecraft:drop": 2,
+      "minecraft:interact_with_cartography_table": 5,
+      "minecraft:sprint_one_cm": 470550,
+      "minecraft:fall_one_cm": 1939,
+      "minecraft:total_world_time": 286601,
+      "minecraft:fly_one_cm": 1805324,
+      "minecraft:walk_on_water_one_cm": 826,
+      "minecraft:crouch_one_cm": 3148,
+      "minecraft:sneak_time": 4700,
+      "minecraft:deaths": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:smooth_quartz_stairs": 1,
+      "minecraft:green_concrete": 11,
+      "minecraft:wooden_axe": 1,
+      "minecraft:dirt": 58,
+      "minecraft:polished_andesite": 2,
+      "minecraft:smooth_quartz": 7,
+      "minecraft:polished_granite": 1
+    },
+    "minecraft:killed": {
+      "minecraft:happy_ghast": 1,
+      "minecraft:panda": 1,
+      "minecraft:spider": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:creeper": 2
+    },
+    "minecraft:used": {
+      "minecraft:pillager_spawn_egg": 1,
+      "minecraft:grass_block": 17,
+      "minecraft:stone_slab": 9,
+      "minecraft:spider_spawn_egg": 5,
+      "minecraft:polished_diorite": 1,
+      "minecraft:stripped_jungle_wood": 8,
+      "minecraft:panda_spawn_egg": 1,
+      "minecraft:cartography_table": 2,
+      "minecraft:happy_ghast_spawn_egg": 1,
+      "minecraft:iron_block": 10,
+      "minecraft:copper_grate": 1,
+      "minecraft:smooth_quartz_slab": 6,
+      "minecraft:firework_rocket": 675,
+      "minecraft:black_concrete": 20,
+      "minecraft:deepslate_bricks": 2,
+      "minecraft:vindicator_spawn_egg": 11,
+      "minecraft:cyan_stained_glass_pane": 73,
+      "minecraft:crossbow": 227,
+      "minecraft:command_block": 1,
+      "minecraft:green_concrete": 76,
+      "minecraft:light_blue_stained_glass": 20,
+      "minecraft:dirt": 1,
+      "minecraft:obsidian": 3,
+      "minecraft:polished_granite": 124,
+      "minecraft:quartz_slab": 11,
+      "minecraft:lever": 2,
+      "minecraft:oxidized_copper_grate": 6,
+      "minecraft:map": 2,
+      "minecraft:pale_oak_fence": 5,
+      "minecraft:stone": 16,
+      "minecraft:smooth_sandstone": 3,
+      "minecraft:polished_andesite": 23,
+      "minecraft:smooth_quartz_stairs": 1,
+      "minecraft:villager_spawn_egg": 3,
+      "minecraft:smooth_quartz": 551,
+      "minecraft:iron_trapdoor": 5,
+      "minecraft:spyglass": 6,
+      "minecraft:end_portal_frame": 8,
+      "minecraft:light_gray_stained_glass": 2,
+      "minecraft:moss_block": 3,
+      "minecraft:polished_andesite_slab": 26
+    }
+  },
+  "DataVersion": 4671
+}

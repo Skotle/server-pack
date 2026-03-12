@@ -1,0 +1,6 @@
+[02:46:57] [ServerMain/INFO]: [bootstrap] Running Java 23 (OpenJDK 64-Bit Server VM 23+37-2369; Oracle Corporation null) on Linux 6.17.0-1007-gcp (amd64)
+[02:46:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-39-main@e5e2c50 (2025-12-12T22:00:30Z) for Minecraft 1.21.11
+[02:46:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:46:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[02:46:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - GSit (3.1.0), Geyser-Spigot (2.9.2-SNAPSHOT), ImageMaps (1.0.10), Images (2.5.5), InteractionVisualizer (1.18.19.0), SkinsRestorer (15.10.0), WorldEdit (7.4.0+7381-3decaf0), dynmap (3.6-899), floodgate (2.2.5-SNAPSHOT (b121-55a85ec))
